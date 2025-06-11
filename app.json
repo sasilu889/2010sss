@@ -7,9 +7,9 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from pair or scan qr.",
+            "description": "Manu-MD&iYtDHaRA#lK_PhAqzlyn9KEaTx_Km_dyrtbI1P2tannY8MLi4c5s",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&iYtDHaRA#lK_PhAqzlyn9KEaTx_Km_dyrtbI1P2tannY8MLi4c5s"
         }
     },
     "buildpacks": [
